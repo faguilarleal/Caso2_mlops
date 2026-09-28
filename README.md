@@ -9,8 +9,7 @@ de McDonald's, realizado por un equipo de consultoría externo.
 | Archivo | Descripción |
 |---|---|
 | `diagrama_arquitectura.html` | Diagrama de arquitectura de datos del sistema (Mermaid), capas Bronze/Silver/Gold. |
-| `reporte_caso_estudio.docx` | Reporte escrito: resumen, metodología, arquitectura, hallazgos, POC, conclusiones y referencias. |
-| `propuesta_ml_llm.docx` | Propuesta de integración de modelos de ML, AI y LLM en el pipeline de datos. |
+| `Propuesta_ML_LLM_Caso_2.pdf` | Propuesta de integración de modelos de ML, AI y LLM en el pipeline de datos. |
 | `notebook/poc_sistema_puntos.ipynb` | Notebook con la réplica en miniatura del pipeline (extracción, limpieza, filtrado, agregación). |
 
 ## Cómo ejecutar el notebook
